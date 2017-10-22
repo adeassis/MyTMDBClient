@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Melhores Filmes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="api_key">d0bef8730ff26cafbb20bacb4b57cccb</string>
+    <string name="vote_average">5.0</string>
+
+</resources>
