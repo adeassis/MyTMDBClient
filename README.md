@@ -1,6 +1,4 @@
-# Título do Projeto
-
-Melhores Filmes.
+# Melhores Filmes
 
 Esse projeto é um client de acesso ao The Movie Data Base (https://www.themoviedb.org) via APi para requisições de filmes populares e detalhes de filmes via pesquisa por nome.
 
