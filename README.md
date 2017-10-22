@@ -1,26 +1,26 @@
-# Project Title
+# Título do Projeto
 
 Melhores Filmes.
 
 Esse projeto é um client de acesso ao The Movie Data Base (https://www.themoviedb.org) via APi para requisições de filmes populares e detalhes de filmes via pesquisa por nome.
 
-## Getting Started
+## Iniciando
 
 O client possui 3 funções básicas:
 - Listar filmes populares na inicialização;
 - Pesquisar filmes por nome;
 - Exibir detalhes do filme selecionado;
 
-### Prerequisites
+### Pré-requisitos
 
 Para rodar o projeto é necessário ter instalado o Android Studio 2.3+, Android SDK versão 25 e Build Tools versão 26.0.2+
 
-### Installing
+### Instalando
 
 Copie a pasta completa do projeto para a pasta de projetos padrão do Android Sudio (AndroidStudioProjects).
 Após o Build do Gradle, execute o projeto no emulador ou dispositivo conectado.
 
-## Running the tests
+## Rodando os testes
 
 O Projeto possui dois testes automatizados:
 - ScroolMoviesAndDetailsMovieTest;
@@ -30,7 +30,7 @@ Para rodar os testes, navegue de dentro do Android Studio até: app\src\androidT
 
 Clique com o botão direito do mouse sobre a classe do teste desejado e clique na opção Run.
 
-### Break down into end to end tests
+### Entrando dentro dos testes
 
 ScroolMoviesAndDetailsMovieTest: Essa classe testa a inicialização do aplicativo, bem como o carregamento dos filmes populares via API (Retrofit 2). Testa também a exibição dos 
 detalhes do filme selecionado no RecyclerListView; com uso de delegate e EventBus para tratar as Threads secundárias.
@@ -38,7 +38,7 @@ detalhes do filme selecionado no RecyclerListView; com uso de delegate e EventBu
 
 SearchMovieTest: Essa classe testa a busca de filmes por nome e a exibição dos resultados encontrados no RecyclerListView.
 
-## Built With
+## Construído com
 
 Para o desenvolvimento do projeto, foram utilizadas as biblliotecas de terceiros abaixo listadas:
 
@@ -49,6 +49,6 @@ Para o desenvolvimento do projeto, foram utilizadas as biblliotecas de terceiros
 * [The Movie Database Org](https://www.themoviedb.org/) - Used to get movies list
 
 
-## Authors
+## Autor
 
-* **Adeilson Assis** - *Initial work* - [AdeAssis](https://github.com/adeassis)
+* **Adeilson Assis** - [AdeAssis](https://github.com/adeassis)
