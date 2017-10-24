@@ -18,6 +18,8 @@ Para rodar o projeto é necessário ter instalado o Android Studio 2.3+, Android
 Copie a pasta completa do projeto para a pasta de projetos padrão do Android Sudio (AndroidStudioProjects).
 Após o Build do Gradle, execute o projeto no emulador ou dispositivo conectado.
 
+Altere o valor da @string "api_key" para sua chave (gerada no site do TMDB).
+
 ## Rodando os testes
 
 O Projeto possui dois testes automatizados:
